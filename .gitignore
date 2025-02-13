@@ -173,3 +173,5 @@ testing.ipynb
 src/model
 
 generate.py
+brain-vqa-rad/
+output/
